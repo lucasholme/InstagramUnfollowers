@@ -24,7 +24,6 @@ sh
 ```
 git clone https://github.com/your-username/instagram-unfollower-tracker.git
 cd instagram-unfollower-tracker
-
 ```
 
 ### 2️⃣ Install Dependencies
@@ -81,8 +80,6 @@ The script uses an SQLite database `Instagram.db` with a table:
 
 🔥 Example Output
 -----------------
-
-css
 
 ```
 ['user1', 'user2', 'user3']
