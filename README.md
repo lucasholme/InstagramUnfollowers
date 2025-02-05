@@ -19,8 +19,6 @@ This script tracks Instagram followers using Instaloader and stores data in an S
 
 ### 1️⃣ Clone the Repository
 
-sh
-
 ```
 git clone https://github.com/your-username/instagram-unfollower-tracker.git
 cd instagram-unfollower-tracker
@@ -29,8 +27,6 @@ cd instagram-unfollower-tracker
 ### 2️⃣ Install Dependencies
 
 Make sure you have Python 3.x installed. Then, install Instaloader:
-
-sh
 
 ```
 pip install instaloader
@@ -43,16 +39,12 @@ pip install instaloader
 
 Edit the `main()` function in `tracker.py` and replace:
 
-python
-
 ```
 username = "your_instagram_username"
 password = "your_instagram_password"
 ```
 
 ### 2️⃣ Run the Script
-
-sh
 
 ```
 python tracker.py
@@ -80,8 +72,6 @@ The script uses an SQLite database `Instagram.db` with a table:
 
 🔥 Example Output
 -----------------
-
-css
 
 ```
 ['user1', 'user2', 'user3']
