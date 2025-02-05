@@ -35,7 +35,6 @@ sh
 
 ```
 pip install instaloader
-
 ```
 
 🛠️ Usage
@@ -50,7 +49,6 @@ python
 ```
 username = "your_instagram_username"
 password = "your_instagram_password"
-
 ```
 
 ### 2️⃣ Run the Script
@@ -59,7 +57,6 @@ sh
 
 ```
 python tracker.py
-
 ```
 
 It will:
@@ -89,7 +86,6 @@ css
 
 ```
 ['user1', 'user2', 'user3']
-
 ```
 
 This means `user1`, `user2`, and `user3` unfollowed the account since the last check.
